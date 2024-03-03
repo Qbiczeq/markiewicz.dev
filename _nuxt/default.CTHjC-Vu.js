@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{x as o,G as r,v as n}from"./entry.qGlVoCsE.js";const s={},c={id:"content"};function a(e,_){return n(),o("div",c,[r(e.$slots,"default")])}const l=t(s,[["render",a]]);export{l as default};
